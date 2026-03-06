@@ -60,7 +60,9 @@ Users can apply filters such as **State, Grade, and Good vs Bad Loan** to analyz
 
 ### Dashboard Preview
 
-![Bank Loan Report Details]([images/loan_details.png](https://drive.google.com/file/d/1iqQHmhRa2uGtVRm6iv7mbBAod-wvTYDz/view?usp=drive_link))
+-> ![Bank Loan Report Details]([images/loan_details.png](https://drive.google.com/file/d/1iqQHmhRa2uGtVRm6iv7mbBAod-wvTYDz/view?     usp=drive_link))
+
+-> Images : <img width="860" height="612" alt="Bank_Logo-png" src="https://github.com/user-attachments/assets/947c5612-bfff-4f36-    b051-7cb3f39b5a90" />
 
 ---
 
